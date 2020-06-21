@@ -45,10 +45,6 @@ npm start
 - [ReactJs](https://reactjs.org) - A JavaScript library for building user interfaces
 - [SCSS](https://sass-lang.com) - CSS with superpowers
 
-### Authors
-
-- **[Aman Ansari](https://github.com/aman-atg)**
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aman-atg/react-product-card/blob/master/LICENSE) file for details
